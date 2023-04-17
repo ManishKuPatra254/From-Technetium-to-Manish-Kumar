@@ -1,6 +1,6 @@
 <!-- # From-Technetium-to-Manish-Kumar -->
 
-SO THIS WAS AN ASSIGNMENT GIVEN TO US BY SABIHA MAM.................................................................................................................
+SO THIS WAS AN ASSIGNMENT GIVEN TO US BY SABIHA MAM
 
 
 <!-- Download FunctionUp Technetium project
